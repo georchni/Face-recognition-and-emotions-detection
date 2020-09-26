@@ -1,4 +1,4 @@
-# Face-recognition-and-emotions-detection
+# Face recognition and emotions detection
 A software for face recognition and emotion detection using a Deep Learning Deployment Toolkit from OpenVINO and OpenCV, created for a hackathon project.
 
 For the installation of the toolkit see here:
